@@ -7,10 +7,10 @@ Steps To Clone the Project
 
 Run This Commands to boot the Linux Virtual machine(on git bash)
 1. vagrant up
- *to boot the vm for the first time.                             
+ "to boot the vm for the first time"                             
 2. vagrant ssh
-"to access the vm through terminal."
+"to access the vm through terminal"
 3. vagrant halt
- *to shutdown the running vm.
+ "to shutdown the running vm"
 4. vagrant destroy
- *to remove the vm permanently.
+ "to remove the vm permanently"
