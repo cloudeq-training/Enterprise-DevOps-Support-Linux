@@ -6,8 +6,8 @@ Steps To Clone the Project
 * after cloning the project, open the clone folder by typing this command=>> cd Enterprise-DevOps-Support-Linux
 
 Run This Commands to boot the Linux Virtual machine(on git bash)
-vagrant up                               to boot the vm for the first time.
+1. vagrant up
+2. * to boot the vm for the first time.                             
 vagrant ssh                              to access the vm through terminal.
 vagrant halt                             to shutdown the running vm.
 vagrant destroy                          to remove the vm permanently.
-
